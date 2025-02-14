@@ -8,6 +8,7 @@ Controls:
 - Q - drop grenade
 - LMB - throw grenade
 - ESC - pause menu
-Links:
-[Game on Itch.io](https://korneliuszw.itch.io/foxy-jumper)  
-[YouTube Video](https://www.youtube.com/watch?v=IXoAKD3xaeY)
+
+
+[LINK DO GRY NA ITCH.IO](https://korneliuszw.itch.io/foxy-jumper)  
+[TRAILER NA YOUTUBE](https://www.youtube.com/watch?v=IXoAKD3xaeY)

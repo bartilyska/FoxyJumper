@@ -13,3 +13,4 @@ Controls:
 
 [LINK DO GRY NA ITCH.IO](https://korneliuszw.itch.io/foxy-jumper)  
 [TRAILER NA YOUTUBE](https://www.youtube.com/watch?v=IXoAKD3xaeY)
+![image](https://github.com/user-attachments/assets/348bda57-01d9-4369-894d-b207e184c98a)
